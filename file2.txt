@@ -7,4 +7,6 @@ judul 2
 
 ** fungsi pertama(){
 }
-=======
+
+** fungsi kedua(){
+}
