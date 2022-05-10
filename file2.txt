@@ -2,7 +2,9 @@ judul 2
 ----------
 
 >> isi pertama
+>> isi kedua
 
 
 ** fungsi pertama(){
 }
+=======
