@@ -2,3 +2,7 @@ judul 2
 ----------
 
 >> isi pertama
+
+
+** fungsi pertama(){
+}
